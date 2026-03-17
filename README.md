@@ -15,9 +15,3 @@ Why were high-performing employees with strong performance leaving the company q
 ### 💡 Business Impact
 ***Identified Attrition "Hotspots":** Pinpointed exactly which departments and salary ranges had the highest turnover. 
 * **Retention Strategies:** Provided data-driven insights that allowed HR to implement targeted strategies to minimize turnover costs. 
-
----
-### 📺 Dashboard Demonstration
-<video src="https://github.com/user-attachments/assets/e9f43159-f792-4a1b-925a-f1a45b88285d" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
