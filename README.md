@@ -1,6 +1,7 @@
-# HR-Workforce-Analysis
-End-to-end HR Analytics project using Python, and Power BI to identify attrition hotspots and improve employee retention
+
 # HR WORKFORCE & ATTRITION DASHBOARD 📊
+
+https://github.com/user-attachments/assets/e9f43159-f792-4a1b-925a-f1a45b88285d
 
 ### 🎯 Problem Statement
 Why were high-performing employees with strong performance leaving the company quickly? 
@@ -17,4 +18,6 @@ Why were high-performing employees with strong performance leaving the company q
 
 ---
 ### 📺 Dashboard Demonstration
-*(Check the uploaded video in this repository to see the interactive features and live filters in action)*
+<video src="https://github.com/user-attachments/assets/e9f43159-f792-4a1b-925a-f1a45b88285d" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
